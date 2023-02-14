@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Border radius**
 
 - 📫 How to reach me **pholcast17@gmail.com**
 
