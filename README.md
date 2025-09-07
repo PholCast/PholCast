@@ -29,7 +29,7 @@ I enjoy applying my knowledge to real-world projects and continuously growing as
 
 
 ### Socials
-<a href="https://www.leetcode.com/pholcast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="barsoapang" height="30" width="40" />
+<a href="https://www.leetcode.com/pholcast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="barsoapang" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pholcast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angzhou8" height="30" width="40" /></a>
 ### Badges
 
