@@ -16,9 +16,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bash,dart,docker,firebase,flutter,git,linkedin,mysql,mongodb,maven,nestjs,nextjs,nodejs,npm,postgres,postman,py,java,react,redux,spring,supabase,tailwind,ts,vite,figma)](https://skillicons.dev)
 
 
- <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png">
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" alt="MSSQL" title="MSSQL"/>
-
 
 <div>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png"/></code>
