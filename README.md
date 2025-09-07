@@ -22,7 +22,7 @@ I enjoy applying my knowledge to real-world projects and continuously growing as
 
 <h3 align="left">Frontend:</h3>
 
-[![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind,nextjs)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,react,redux,tailwind,nextjs,angular,flutter)](https://skillicons.dev)
 
 <h3 align="left">Backend:</h3>
 
@@ -30,11 +30,11 @@ I enjoy applying my knowledge to real-world projects and continuously growing as
 
 <h3 align="left">Databases:</h3>
 
-[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase)](https://skillicons.dev)
 
 <h3 align="left">Other Tools:</h3>
 
-[![Tools](https://skillicons.dev/icons?i=git,docker,postman,figma,vite)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,docker,postman,figma,vite,bash,npm,figma)](https://skillicons.dev)
 
 
 ### Socials
