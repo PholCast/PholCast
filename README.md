@@ -6,7 +6,7 @@ I enjoy applying my knowledge to real-world projects and continuously growing as
 * 🖥️  See my portfolio at [pholcast.io](http://pholcast.github.io/myPortfolio)
 * 🚀  I'm currently working on [A flutter mobile app](http://github.com)
 * 🧠  I'm learning Flutter
-* ⚡  DELETE FROM enthusiast. No regrets.
+* ⚡  DELETE FROM enthusiast; -- just kidding 😎
 
 
 ### Skills and Technologies
@@ -29,7 +29,6 @@ I enjoy applying my knowledge to real-world projects and continuously growing as
 
 
 ### Socials
-[![Socials](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 <a href="https://www.leetcode.com/pholcast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="barsoapang" height="30" width="40" />
 <a href="https://linkedin.com/in/pholcast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angzhou8" height="30" width="40" /></a>
 ### Badges
