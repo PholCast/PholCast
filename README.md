@@ -10,8 +10,8 @@ I enjoy applying my knowledge to real-world projects and continuously growing as
 
 * 🖥️  See my portfolio at [pholcast.io](http://pholcast.github.io/myPortfolio)
 * 🚀  I'm currently working on [A flutter mobile app](http://github.com)
-* 🧠  I'm currently learning Flutter
-* 💬  Ask me about DELETE FROM enthusiast. No regrets.
+* 🧠  I'm learning Flutter
+* ⚡  DELETE FROM enthusiast. No regrets.
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
