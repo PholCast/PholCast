@@ -24,13 +24,9 @@ I enjoy applying my knowledge to real-world projects and continuously growing as
 
 [![Frontend](https://skillicons.dev/icons?i=html,css,react,redux,tailwind,nextjs,angular,flutter)](https://skillicons.dev)
 
-<h3 align="left">Backend:</h3>
+<h3 align="left">Backend and Databases:</h3>
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,spring)](https://skillicons.dev)
-
-<h3 align="left">Databases:</h3>
-
-[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,spring,postgres,mysql,mongodb,supabase,firebase)](https://skillicons.dev)
 
 <h3 align="left">Other Tools:</h3>
 
