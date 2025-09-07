@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bash,dart,docker,firebase,flutter,git,linkedin,mysql,nestjs,nextjs,nodejs,npm,postgres,postman,py,java,react,redux,spring,supabase,tailwind,ts,vite,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bash,dart,docker,firebase,flutter,git,linkedin,mysql,mongodb,maven,nestjs,nextjs,nodejs,npm,postgres,postman,py,java,react,redux,spring,supabase,tailwind,ts,vite,figma)](https://skillicons.dev)
 
 
 
