@@ -17,18 +17,23 @@ I enjoy applying my knowledge to real-world projects and continuously growing as
 ### Skills and Technologies
 
 <h3 align="left">Languages:</h3>
-[![Languages](https://skillicons.dev/icons?i=js,python,java,ts)](https://skillicons.dev)
+
+[![Languages](https://skillicons.dev/icons?i=js,ts,python,java,dart)](https://skillicons.dev)
 
 <h3 align="left">Frontend:</h3>
+
 [![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind,nextjs)](https://skillicons.dev)
 
 <h3 align="left">Backend:</h3>
+
 [![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,spring)](https://skillicons.dev)
 
 <h3 align="left">Databases:</h3>
+
 [![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase)](https://skillicons.dev)
 
 <h3 align="left">Other Tools:</h3>
+
 [![Tools](https://skillicons.dev/icons?i=git,docker,postman,figma,vite)](https://skillicons.dev)
 
 
