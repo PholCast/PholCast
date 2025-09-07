@@ -14,6 +14,7 @@
 <h3 align="left">Languages and Tools:</h3>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bash,dart,docker,firebase,flutter,git,linkedin,mysql,nestjs,nextjs,nodejs,npm,postgres,postman,,py,,java,react,redux,spring,supabase,tailwind,ts,vite)](https://skillicons.dev)
 
+[![My Skills](js,html,css,angular,bash,dart,docker,firebase,flutter,git,linkedin,mysql,nestjs,nextjs,nodejs,npm,postgres,postman,py,java,react,redux,spring,supabase,tailwind,ts,vite)](https://skillicons.dev)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pholc&show_icons=true&locale=en" alt="pholc" /></p>
