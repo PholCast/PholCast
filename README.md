@@ -13,9 +13,24 @@ I enjoy applying my knowledge to real-world projects and continuously growing as
 * 🧠  I'm learning Flutter
 * ⚡  DELETE FROM enthusiast. No regrets.
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
-</p>
+
+### Skills and Technologies
+
+<h3 align="left">Languages:</h3>
+[![Languages](https://skillicons.dev/icons?i=js,python,java,ts)](https://skillicons.dev)
+
+<h3 align="left">Frontend:</h3>
+[![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind,nextjs)](https://skillicons.dev)
+
+<h3 align="left">Backend:</h3>
+[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,spring)](https://skillicons.dev)
+
+<h3 align="left">Databases:</h3>
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase)](https://skillicons.dev)
+
+<h3 align="left">Other Tools:</h3>
+[![Tools](https://skillicons.dev/icons?i=git,docker,postman,figma,vite)](https://skillicons.dev)
+
 
 ### Socials
 
