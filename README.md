@@ -39,7 +39,7 @@ I enjoy applying my knowledge to real-world projects and continuously growing as
 
 
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
+<div style="display: flex; justify-content: space-between; gap: 50px;">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pholcast&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak Stats" />
 
