@@ -4,6 +4,11 @@ Hi 👋 My name is Phol
 Software Engineer in progress and Full Stack Developer
 ------------------------------------------------------
 
+<h1 align="center">Hi 👋 My name is Phol</h1>
+
+<h3 align="center">Software Engineer in progress and Full Stack Developer</h3>
+
+
 I'm a fourth-year Software Engineering student with a strong passion for full-stack web development. Throughout my studies, I've built a solid foundation in software engineering concepts such as OOP, clean code, design patterns, software architecture, DevOps, web development, and algorithms.
 
 I enjoy applying my knowledge to real-world projects and continuously growing as a software engineer. While I'm fascinated by AI, my primary focus right now is web development.
