@@ -21,7 +21,7 @@ I enjoy applying my knowledge to real-world projects and continuously growing as
 
 <h3 align="left">Backend and Databases:</h3>
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,spring,postgres,mysql,mongodb,supabase,firebase)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,postgres,mysql,mongodb,supabase,firebase)](https://skillicons.dev)
 
 <h3 align="left">Other Tools:</h3>
 
