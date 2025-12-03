@@ -35,7 +35,10 @@ I enjoy applying my knowledge to real-world projects and continuously growing as
 
 <b>My GitHub Stats</b>
 
-<a align="center" href="http://www.github.com/pholcast"><img src="https://github-readme-stats.vercel.app/api?username=pholcast&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="pholcast's GitHub stats" /></a>
+![Phol's GitHub stats](https://github-readme-stats.vercel.app/api?username=pholcast&show_icons=true&theme=radical)
+
+
+
 
 <div style="display: flex; justify-content: space-between; gap: 50px;">
 
