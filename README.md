@@ -33,16 +33,14 @@ I enjoy applying my knowledge to real-world projects and continuously growing as
 <a href="https://linkedin.com/in/pholcast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angzhou8" height="30" width="40" /></a>
 ### Badges
 
-<b>My GitHub Stats</b>
+## My GitHub Stats
 
-<div style="display: flex; justify-content: space-between; gap: 50px;">
+<div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pholcast&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak Stats" style="height: 180px;"/>
+| Streak | Top Languages |
+|--------|---------------|
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=pholcast&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="180px"> | <img src="https://vercel-woad-seven.vercel.app/api/top-langs/?username=pholcast&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=0f172a&hide_border=true"> |
 
-<img 
-        src="https://vercel-woad-seven.vercel.app/api/top-langs/?username=pholcast&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=0f172a&hide_border=true" 
-        alt="Top Languages" 
-      />
 </div>
 
 
