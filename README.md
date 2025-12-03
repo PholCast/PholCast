@@ -36,6 +36,11 @@ I enjoy applying my knowledge to real-world projects and continuously growing as
 <b>My GitHub Stats</b>
 
 ![Phol's GitHub stats](https://github-readme-stats.vercel.app/api?username=pholcast&show_icons=true&theme=radical)
+### 🧠 Top Languages
+
+<img
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pholcast&layout=compact&theme=dark&hide_border=true"
+/>
 
 
 
