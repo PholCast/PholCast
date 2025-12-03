@@ -39,6 +39,10 @@ I enjoy applying my knowledge to real-world projects and continuously growing as
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pholcast&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak Stats" style="height: 180px;"/>
 
+<img 
+        src="https://vercel-woad-seven.vercel.app/api/top-langs/?username=pholcast&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=0f172a&hide_border=true" 
+        alt="Top Languages" 
+      />
 </div>
 
 
