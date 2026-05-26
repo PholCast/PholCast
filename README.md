@@ -42,3 +42,38 @@ I enjoy applying my knowledge to real-world projects and continuously growing as
 </div>
 
 
+
+<h1 align= "center" style="padding: 0px 0;">
+  My Github Stats
+</h1>
+
+<p>&nbsp;</p>
+
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=PholCast&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" 
+        alt="PholCast's GitHub Stats" 
+      />
+    </td>
+    <td>
+      <img 
+        src="https://streak-stats.demolab.com?user=PholCast&theme=tokyonight&hide_border=true&background=0D1117" 
+        alt="GitHub Streak" 
+      />
+    </td>
+  </tr>
+</table>
+
+<img 
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PholCast&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" 
+  alt="Top Languages" 
+/>
+
+</div>
+
+
