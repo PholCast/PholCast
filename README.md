@@ -6,8 +6,6 @@ I enjoy applying my knowledge to real-world projects and continuously growing as
 * 🖥️  See my portfolio at [pholcast.io](http://pholcast.github.io/myPortfolio)
 * 🚀  I'm currently working on [FoxMate: A flutter mobile app](http://github.com/pholcast/fox_mate_app)
 * 🧠  I'm learning Flutter
-* ⚡  DELETE FROM enthusiast; -- just kidding 😎
-
 
 ### Skills and Technologies
 
