@@ -3,9 +3,8 @@
 I'm a fourth-year Software Engineering student with a strong passion for full-stack web development. Throughout my studies, I've built a solid foundation in software engineering concepts such as OOP, clean code, design patterns, software architecture, DevOps, web development, and algorithms.
 I enjoy applying my knowledge to real-world projects and continuously growing as a software engineer. While I'm fascinated by AI, my primary focus right now is web development.
 
-* 🖥️  See my portfolio at [pholcast.io](http://pholcast.github.io/myPortfolio)
-* 🚀  I'm currently working on [FoxMate: A flutter mobile app](http://github.com/pholcast/fox_mate_app)
-* 🧠  I'm learning Flutter
+* 🚀  I'm currently working on [Fluxlab: A LIMS software](http://github.com/pholcast/fluxlab-backend)
+* 🧠  I'm learning Nestjs
 
 ### Skills and Technologies
 
