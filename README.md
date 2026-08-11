@@ -3,7 +3,7 @@
 I'm a fourth-year Software Engineering student with a strong passion for full-stack web development. Throughout my studies, I've built a solid foundation in software engineering concepts such as OOP, clean code, design patterns, software architecture, DevOps, web development, and algorithms.
 I enjoy applying my knowledge to real-world projects and continuously growing as a software engineer. While I'm fascinated by AI, my primary focus right now is web development.
 
-* 🖥️  See my portfolio at [phol-portofolio.vercel.app](https://phol-portfolio.vercel.app/)
+* 🖥️  See my portfolio at [phol-portfolio.vercel.app](https://phol-portfolio.vercel.app/)
 * 🚀  I'm currently working on [Fluxlab: A LIMS software](https://github.com/pholcast/fluxlab-backend)
 * 🧠  I'm learning Nestjs
 
